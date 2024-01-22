@@ -1,0 +1,37 @@
+body{
+    margin: 10px;
+    padding: 0;
+    background-color: #d2d2d2;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    margin-top: 10px;
+    border: 1px solid;
+    width: 35%;
+}
+
+.fila{
+    width: 100%;
+    display: flex;
+}
+
+.celda{
+    width: 30%;
+    border: 1px solid;
+    text-align: center;
+    padding: 10px;
+    background-color: #fafafa;
+}
+
+.intercambio{
+    background-color: orange;
+}
+
+.maximo{
+    background-color: forestgreen;
+}
+
+.minimo{
+    background-color: cornflowerblue;
+}
