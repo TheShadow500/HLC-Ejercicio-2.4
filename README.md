@@ -1,1 +1,1 @@
-# HLC-Ejercicio-2.4
+JavaScript Practises
